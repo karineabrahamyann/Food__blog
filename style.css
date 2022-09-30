@@ -1,0 +1,140 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.top {
+    display: flex;
+    width: 100%;
+    height: 80px;
+    justify-content: space-around;
+text-align: center;
+}
+.topmembers{
+padding-top:  15px;
+    font-size: 25px;
+    width: 110px;
+    height: 80px;
+}
+.maincontent{
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+   height: 1150px;
+}
+.container1{
+    flex-wrap: wrap;
+    padding: 25px;
+    text-align: center;
+    justify-content: space-evenly;
+    display: flex;
+    width: 1200px;
+    height: 1200px;
+}
+h2{
+    font-weight: 400;
+    margin: 10px;
+}
+.sandwich{
+    width: 270px;
+    height: 560px;
+}
+.steak {   
+    width: 270px;
+    height: 560px;
+}
+.cherries{
+    width: 270px;
+    height: 560px;
+}
+.wine {
+    width: 270px;
+    height: 560px;  
+}
+.popsicle{
+    width: 270px;
+    height: 560px;
+}
+.salmon{  
+    width: 270px;
+    height: 560px;  
+}
+.sandwich2{
+    width: 270px;
+    height: 560px;  
+}
+.croissant{
+       width: 270px;
+    height: 560px;
+}
+.partoflinks{
+    padding:25px;
+    display: inline-block;
+    text-align: center;
+    gap: 5px;
+    width: 100%;
+    height: 80px;
+
+}
+.a0 {
+    padding: 6px 10px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.a1 {
+    padding: 6px 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.aboutme{
+    padding-top: 25px;
+    text-align: center;
+    width: 100%;
+    height: 920px;
+    
+}
+.theendpart{
+    justify-content: space-evenly;
+    display: flex;
+    text-align: left;
+   padding: 20px;
+    width: 100%;
+    height: 290px;
+}
+.div1{
+       width: 300px;
+    height: 203px;
+}
+.linkw3{
+   color: rgba(15, 14, 14, 0.763);
+}
+.div2{
+       width: 300px;
+    height: 230px; 
+}
+.div3{
+       width: 300px;
+    height: 189px;
+    margin-bottom: 16px;
+}
+.span0 {
+    padding: 4px;
+    color: white;
+    background-color: black;
+}
+
+.span1 {
+    display: inline-block;
+    color: white;
+    padding: 4px;
+    background-color: #616161;
+    font-size: 10px;
+    margin-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
